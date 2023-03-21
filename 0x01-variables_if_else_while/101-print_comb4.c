@@ -14,7 +14,7 @@ int main(void)
 	{
 		for (m = 1; m <= 8; m++)
 		{
-			for (l = 3; l <= 9; l++)
+			for (l = 2; l <= 9; l++)
 			{
 				if (n < m && m < l)
 				{
