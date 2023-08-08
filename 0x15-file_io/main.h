@@ -1,5 +1,5 @@
 #ifndef MAIN_H
-#define MAIN_H
+sh: 1: :x: not found
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
